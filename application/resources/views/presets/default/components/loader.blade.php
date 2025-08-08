@@ -3,14 +3,6 @@
         <div id="text">
             <p>M</p>
             <p>Y</p>
-            
-            <p>J</p>
-            <p>O</p>
-            <p>U</p>
-            <p>R</p>
-            <p>N</p>
-            <p>E</p>
-            <p>Y</p>
 
             <p>N</p>
             <p>E</p>
@@ -18,7 +10,15 @@
             <p>A</p>
             <p>L</p>
 
-            <p class="active">A</p>
+            <p>J</p>
+            <p>O</p>
+            <p>U</p>
+            <p>R</p>
+            <p>N</p>
+            <p>E</p>
+            <p class="active">Y</p>
+
+
         </div>
     </div>
 
