@@ -3,12 +3,15 @@
         <div id="text">
             <p>M</p>
             <p>Y</p>
+            <p></p>
 
             <p>N</p>
             <p>E</p>
             <p>P</p>
             <p>A</p>
             <p>L</p>
+            
+            <p></p>
 
             <p>J</p>
             <p>O</p>
